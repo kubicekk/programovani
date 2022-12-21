@@ -9,7 +9,7 @@ int main() {
 	int pin1;
 	int pin2;
 	int pin3;
-
+//fakt super
 
 ucty:
 	cout << "Vitejte v bankomatu" "\n" "\n";
