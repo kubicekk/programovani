@@ -10,7 +10,7 @@ int main() {
 	int pin2;
 	int pin3;
 //fakt super
-
+//kokot
 ucty:
 	cout << "Vitejte v bankomatu" "\n" "\n";
     cout << "Jaky ucet chcete pouzit?" "\n";
