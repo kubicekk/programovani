@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//kokote jeden
 int main() {
     int ucty = 0;
 	int menu = 0;
